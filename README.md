@@ -3,7 +3,7 @@ you can contact me using any of these contact methods
 * email: fadialailan@protonmail.com
 
 NOTE: I also code on platforms other than GitHub
-* GitLab: gitlab.com/fadialailan
+* GitLab: [gitlab.com/fadialailan](https://gitlab.com/fadialailan)
 
 <!---
 - 👋 Hi, I’m @fadialailan
